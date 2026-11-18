@@ -1,0 +1,6 @@
+tensorflow>=2.13
+tensorflow-datasets
+scikit-learn
+numpy
+matplotlib
+pillow
